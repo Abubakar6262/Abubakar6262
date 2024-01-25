@@ -1,3 +1,4 @@
+![logo](https://github.com/Abubakar6262/Abubakar6262/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Abu Bakkar</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
