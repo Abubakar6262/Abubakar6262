@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abu Bakkar</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" align="center" alt="coding" width="400">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif" align="right" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abubakar6262&label=Profile%20views&color=0e75b6&style=flat" alt="abubakar6262" /> </p>
 
