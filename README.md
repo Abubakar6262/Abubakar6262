@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://abubakarmukhtar.surge.sh/](https://abubakarmukhtar.surge.sh/)
+- 👨‍💻 All of my projects are available at [https://abubakarcodex.vercel.app/](https://abubakarcodex.vercel.app/)
 
 - 📫 How to reach me **abubkarmukhtar44@gmail.com**
 
