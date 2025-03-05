@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abubkarmukhtar44@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=10fX60sZhkUuQ2_ymmr_h9BH_XVcs-Jbo](https://drive.google.com/uc?export=download&id=10fX60sZhkUuQ2_ymmr_h9BH_XVcs-Jbo)
+- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1FanbOTpcU-e6GGyBXxnnWHeoYSIoy6nS](https://drive.google.com/uc?export=download&id=1FanbOTpcU-e6GGyBXxnnWHeoYSIoy6nS)
 
 - ⚡ Fun fact **Bug Slayer by Day 💝**
 
